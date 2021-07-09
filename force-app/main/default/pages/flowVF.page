@@ -19,7 +19,7 @@
                   }
                }
             };
-            $Lightning.use("c:flowAuraApp", function() {
+            $Lightning.use("c:flowAuraApp", function() { // Replace the Aura Application name here if yours havs a different name
                // Create the flow component and set the onstatuschange attribute
                $Lightning.createComponent("lightning:flow", {"onstatuschange":statusChange},
                   "flowContainer",
