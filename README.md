@@ -7,9 +7,9 @@
 
 3. [flowVF](force-app/main/default/pages/flowVF.page) LINE 31: Replace the flow API name to your target flow.
 
-4. Provide access to the flowVF for relevant community user profiles.
+4. Provide access to the flowVF page for relevant community user profiles.
 
 5. Link or embed your flowVF page to your community or experience site
 
 This is a very very rough template.
-![Fianl Look](assets/flowInVF_AuraDependency.png)
+![A Rough Prototype](assets/flowInVF_AuraDependency.png)
