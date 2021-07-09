@@ -1,4 +1,4 @@
-# Host Flow in a Visualforce page with Aura Component dependency
+# Host Flow in a Visualforce page with Aura Component Dependency
 
 ## To Change
 1. Have your screen flow ready and activated (Your flow should not have required input parameters to start the interview; this template is not built to supoprt it. ex. I need to start the flow interview with a list of selected records from the page)
@@ -6,5 +6,5 @@
 3. provide access to the flowVF for relevant community user profiles.
 4. link or embed your flowVF from your site
 
-Very Very Rough Teamplate
+This is a very very rough template.
 ![Fianl Look](assets/flowInVF_AuraDependency.png)
